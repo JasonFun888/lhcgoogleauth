@@ -1,2 +1,5 @@
-composer.lock
-settings/settings.ini.php
+# Ignore ZendStudio Project Files
+.buildpath
+.project
+.settings/
+
